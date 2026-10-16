@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "repository": "phishing-v17",
+  "method": "git checkout-index into an empty directory, compare all exported bytes, run standard-library reproduce.py verify",
+  "tracked_files_exported": 374,
+  "historical_source_files_checked": 245,
+  "payload": {
+    "status": "passed",
+    "files": 11,
+    "parts_checked": 89,
+    "bytes": 236244806,
+    "restored_files": 11
+  },
+  "all_exported_file_bytes_match": true,
+  "no_venv_runtime_or_outputs_in_git": true,
+  "full_model_prediction_in_temporary_checkout": false,
+  "full_model_prediction_evidence": "predict.json and train.json; logical model and data SHA256 unchanged after repartition, as recorded in payload_repartition.json",
+  "tests_passed_after_repartition": 132,
+  "temporary_checkout_removed": true
+}

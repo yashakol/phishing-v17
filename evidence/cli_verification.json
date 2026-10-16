@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "real_test_rows": 8,
+  "network_disabled": true,
+  "predictions_match_submission": true,
+  "actual_cli_entry_point": true
+}

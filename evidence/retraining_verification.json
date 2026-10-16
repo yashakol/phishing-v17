@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "training_rows": 7119,
+  "checked_prediction_rows": 7119,
+  "new_classifier_fits": 1,
+  "training_scope_exactly_equal": true,
+  "parameters_exactly_equal": true,
+  "predictions_exactly_equal": true,
+  "max_probability_difference": 0.0,
+  "source_sha256": "dd22df58a12aff980ecd42452fc8726243cc43a318b1bc26d3bf68ab828d21ab",
+  "original_checkpoint_sha256": "167066c4a0ae0dbb76e1308a5e63993acd65db8b99def368dd317c6a3faecc70",
+  "refitted_checkpoint_sha256": "3dd65b58e5a62a8e028ab8e98e5055ce209aa0f7678a203bf5c7c59efa165447",
+  "frame_sha256": "c3fec127c655ae9959606a31ddc6992cd46501b86be46bb89911c23154cbaa64",
+  "environment": "Current pinned local environment; no external or test labels"
+}

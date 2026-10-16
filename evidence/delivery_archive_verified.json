@@ -1,0 +1,21 @@
+{
+  "archive": "/Users/iashin/phishing-hackathon-solution-v17.zip",
+  "sha256": "cab82550d26e884e3f7520236a8e200699051f00c889602c26ea7bdcd66a99c8",
+  "bytes": 3030020350,
+  "files": 997,
+  "crc_ok": true,
+  "manifest_sha256_ok": true,
+  "extracted_source_imported": true,
+  "portable_tests": {
+    "tests": 116,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "unused_reference_sources_absent": true,
+  "local_and_portable_test_totals_match": true,
+  "portable_offline_cli_rows": 8,
+  "portable_cli_matches_submission": true,
+  "full_16000_row_offline_replay": "reports/v17/verification.json",
+  "environment": "Current verified Python environment; source, data and models freshly extracted"
+}

@@ -1,0 +1,10 @@
+{
+  "source": "User-reported result in this conversation, not independently queried",
+  "version": "v17",
+  "submission": "submissions/submission_content_v17.csv",
+  "submission_sha256": "806287876e1ca07abf2696189e6de290252e1ff907dfdb78156c271e1a292458",
+  "reported_public_f1": 0.995082,
+  "reported_competitor_f1": 0.996062,
+  "improvement_confirmed": false,
+  "feedback_date": "2026-10-10"
+}

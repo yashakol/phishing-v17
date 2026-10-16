@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "variant": "v17",
+  "basis": "Actual fresh-environment runs recorded in this directory; organizer assessment is separate.",
+  "new_isolated_environment": true,
+  "old_project_environment_reused": false,
+  "package_pins_checked": 37,
+  "environment_report": "environment_setup.json",
+  "setup_log": "setup.log",
+  "predict_report": "predict.json",
+  "train_report": "train.json",
+  "tests_report": "tests.xml",
+  "tests": {
+    "tests": 132,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "full_test_prediction": {
+    "rows": 16000,
+    "positive_predictions": 6016,
+    "sha256": "806287876e1ca07abf2696189e6de290252e1ff907dfdb78156c271e1a292458"
+  },
+  "same_submission_after_declared_training": true,
+  "declared_training_scope": "Final CatBoost specialist fitted on 7119 organizer training rows; included frozen base models and feature matrix reused; all historical base stages were not retrained.",
+  "all_historical_base_models_retrained_from_raw_data": false,
+  "public_test_labels_used_for_predictions": false,
+  "new_independent_f1_measured": false,
+  "private_f1": null,
+  "organizer_acceptance_confirmed": false,
+  "organizer_reference_admissibility": "not applicable",
+  "python": "3.12.10",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "hardware": {
+    "logical_cpu_count": 8,
+    "physical_cpu_count": 8,
+    "physical_memory_bytes": 17179869184,
+    "training_thread_limit": 2,
+    "gpu_used": false
+  },
+  "git_export_report": "git_checkout.json",
+  "restore_from_git_export_passed": true,
+  "payload_repartition_report": "payload_repartition.json",
+  "model_input_hashes_unchanged_after_repartition": true,
+  "tests_repeated_after_repartition": true
+}
