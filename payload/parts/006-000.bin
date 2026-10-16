@@ -1,0 +1,41 @@
+{
+  "action": "Refit validated v15 family on all uncertain organizer train rows",
+  "parameters": {
+    "iterations": 800,
+    "learning_rate": 0.04,
+    "depth": 5,
+    "l2_leaf_reg": 30.0,
+    "loss_function": "Logloss",
+    "thread_count": 2,
+    "random_seed": 20261010,
+    "verbose": false,
+    "allow_writing_files": false
+  },
+  "weight": 0.75,
+  "threshold": 0.48065476205654856,
+  "development_eligible_rows": 5885,
+  "fit_scope": "Development eligible rows use frozen OOF frame; remaining eligible own-train rows use frozen base/context fitted exclusively on development. No query row label enters its training features",
+  "feature_policy": "Identical 354-column v15 numeric/resource schema; no new parameters, weights or threshold selection",
+  "validation_status": "Historical v15 OOF/diagnostic scores retained as family evidence. Final refit includes diagnostic train rows; no new independent F1 is claimed",
+  "test_policy": "Only unlabeled test after refit; no test probabilities used to adapt parameters",
+  "source_sha256": "ec6e6943d391ca3f433149c205af04ab42d8c14ace68477059e9970c29c36c67",
+  "sources_sha256": {
+    "phishing_url/v12_expert.py": "9de3ada6adba4405d6452a83e08f377bb4493f0c72f50c2a0886a0df584b0b9f",
+    "phishing_url/v15_bundle.py": "fc012a6a0febcda836c96ff9f0685d45ca932c2e92471106158ac613f19db9e0",
+    "phishing_url/v15_resources.py": "4620bc017bd62fd4c24f578a9852508c3c3e88f893bbdaf527fcbbafd284508d",
+    "phishing_url/v12_bundle.py": "bfc80e1272c48c5c3164a47a422f350c6563283689a393d3ae34640125e1dc7f"
+  },
+  "inputs_sha256": {
+    "data/content_train.joblib": "d59b0d046b138bf1da0f60ccdbe1e10782c4c448c000fc8e3db9f1fdc8ed4f33",
+    "data/content_url_train.joblib": "d198862b1760f79f3f749ff70110d2095ff118e3e1b5b59a993d66e2796c54ca",
+    "data/extra_html_train.joblib": "6b096c2ecc17411167058f7a3744fe21a86f545091212db1814ecb3e949608a7",
+    "experiments/v15_resources/training_frame.npz": "9378a59016b14709a46c2c2df1a658eeeccb5b15072c7eebb4d14aa4f7a6f913",
+    "reports/v15/selection.json": "189fdb1ac7dc7ad60af1c37ec539a2b598a6d9902e14b0d103408513a9d96b3c",
+    "reports/v15/metrics.json": "48d4bf3108fd88f9f3ff267edb03be8164629d87e4f60064f4963e3a49159eb4",
+    "reports/v15/verification.json": "6e3e3abf5a0c2c59e898ded8955987ad6c07f76c4d0e25543cf709ddbefbd15a",
+    "reports/v10/holdout_predictions.csv": "70cbb9f3d2e9e07b966b759c17bc9a29f2b70d3089a00248bf295e122ce3fcf7",
+    "artifacts/v15/holdout.joblib": "72ccd27c00d5aada74946c8e276bb4598f143fa73557222db76732c917184348",
+    "artifacts/v15/ensemble.joblib": "d5a0012b66906494eca15feeb3e19080f9cbaa839510961414cc6665d50d6231"
+  },
+  "external_test_labels_used": false
+}

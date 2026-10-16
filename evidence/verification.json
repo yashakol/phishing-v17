@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "frozen_inputs_parameters_and_threshold": true,
+  "own_train_labels_and_indices_verified": true,
+  "expert_training_rows": 7119,
+  "training_rows_by_source": {
+    "development": 5885,
+    "diagnostic": 1215,
+    "added": 19
+  },
+  "old_development_features_exactly_reused": true,
+  "new_train_features_replayed": 1393,
+  "resource_counters_rebuilt_from_raw_own_train": true,
+  "component_serialization_predictions_exact": true,
+  "offline_full_inference_byte_identical": true,
+  "test_rows_in_original_order": 16000,
+  "submission": {
+    "rows": 16000,
+    "positive_predictions": 6016,
+    "sha256": "806287876e1ca07abf2696189e6de290252e1ff907dfdb78156c271e1a292458"
+  },
+  "model_sha256": "61691818414b6a28edf38f15f4bc2077b2e62803efdb6a08b19aa58bf3ae0c48",
+  "external_test_labels_used": false,
+  "new_independent_quality_evaluation": false
+}

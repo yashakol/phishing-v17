@@ -1,0 +1,5 @@
+{
+  "variant": "v17",
+  "expected_file": "expected/submission_content_v17.csv",
+  "expected_csv_sha256": "806287876e1ca07abf2696189e6de290252e1ff907dfdb78156c271e1a292458"
+}

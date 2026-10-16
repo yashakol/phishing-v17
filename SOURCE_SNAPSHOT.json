@@ -1,0 +1,1231 @@
+{
+  "archive": "phishing-hackathon-solution-v17.zip",
+  "files": {
+    "experiments/astra/predict_test.py": {
+      "sha256": "1876ac86d749e79b3bf8beb808e720af87a292f3cc8f9e35fec7bf576fe52121",
+      "bytes": 2186,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/astra/run_experiment.py": {
+      "sha256": "d49bbc0437763c29522e5bd2098c9e60319b84107d0a7f55353d7400b94ca762",
+      "bytes": 8134,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/astra/run_oof.py": {
+      "sha256": "f45e9de428baf6ccc33b4cc947d99bd2d8607871927cb7e2c6959be8866ddd13",
+      "bytes": 4344,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/astra/url_model.py": {
+      "sha256": "02e90c57baea5b01d01eaee697e2a2a276451b6ca8ace8bb99c400e8650e9dc8",
+      "bytes": 5355,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/astra/verify.py": {
+      "sha256": "9f2048ea63121be3d5e069ab03b06adcd5fc133955af57cee8facb8c145e0e5f",
+      "bytes": 3865,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/content/audit_matches.py": {
+      "sha256": "991d8458f5609ec20f961ae420453be69f93fde3900ab07c12b83fdb1f716d39",
+      "bytes": 1878,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/content/boost.py": {
+      "sha256": "888393292fed88e869c487ee6d55983f2c641fe6868af382da44798a9a89594b",
+      "bytes": 4428,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/content/native_screen.py": {
+      "sha256": "ac579dcf56fd44a81de446a09567c14fa73ff5d4168268259f513472cb09c736",
+      "bytes": 2434,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/content/oof_boost.py": {
+      "sha256": "4db6152c328455c70909bf87463bbf792bebec4d26abc832112147981578a2e5",
+      "bytes": 2731,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/content/select_ensemble.py": {
+      "sha256": "95893948ce55824658c039d3d6c0bac964a6e63c3fdee257d3c68c8f7188b23e",
+      "bytes": 6056,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/blend.py": {
+      "sha256": "cd0f295fced952c06ef5c121f6abfc5aca8db90d10555f67a03098ec033a5fef",
+      "bytes": 3644,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/cost_review.py": {
+      "sha256": "b70a3b6c247fd8802600b505ae95cd2644ab83e867874077d0c5e55b6a9d1dbd",
+      "bytes": 3817,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/prepare_components.py": {
+      "sha256": "a23d7a22effe8b2a7bdec2cc2f089335f4302a0473cecf518902b766861b37bf",
+      "bytes": 5766,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/run_oof.py": {
+      "sha256": "a32a7d19fb8f70bfab27c806b82b6ecb316d9e41f916d270fea2f63d52a4b41f",
+      "bytes": 9310,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/screen.py": {
+      "sha256": "c6f708d8c3afcdadab7eab23924d55a28501fdb92bb58b537928a5b1de826aba",
+      "bytes": 12409,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/html_astra/verify.py": {
+      "sha256": "45a391763e5ce4c72cf23e53510987129b261f0d9397f2ef52c9d517ceaa1db1",
+      "bytes": 3741,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v10_margin/run_oof.py": {
+      "sha256": "9e81bdda42ddaef197b767b1b3acbbcfa019f8eab089968571948e8e3885983e",
+      "bytes": 10768,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v10_margin/select.py": {
+      "sha256": "0b78236cd0d64fdab89d1c0e9d4ef9dccb1e2c8e666b6fe4ec05bc84a01d2d5f",
+      "bytes": 6023,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v10_nb/run.py": {
+      "sha256": "468577765235084b1a7eeb2721e27cd3a25d851e321feefe41906b9cc1fd6437",
+      "bytes": 23220,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v11_meta/search.py": {
+      "sha256": "e221a3a2dcf7a8dee99fc8689b215c3ef3cde7cf02ba5d0568f30008ff6f3717",
+      "bytes": 9571,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v11_shift/audit.py": {
+      "sha256": "ae34c8882aa48545edadf37955a9a165387fd418c1e3b9b30bde0c9201065de5",
+      "bytes": 44225,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v12_expert/search.py": {
+      "sha256": "d7b67d029f2bf1edbf6054d4d82a471be96303273935f033a3dba2ef73ff8af4",
+      "bytes": 9180,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v12_review/verification.py": {
+      "sha256": "ed59e2937d11cb70132aa2a5f8d8b97c52f3d574e49042134137f5a6f9678232",
+      "bytes": 18656,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v13_static/search.py": {
+      "sha256": "ec9d0d7344fca79bd348271a47b50cc00f7a4d377077584291bb5f0bf60cc062",
+      "bytes": 9490,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v15_resources/search.py": {
+      "sha256": "e231fe8614b9c6baa0b5731d34bb63abb47cfeedd496449855d9ab9625fd173d",
+      "bytes": 10446,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v15_review/verify.py": {
+      "sha256": "6090c4c91ea1592a60fff6132c5c236b3678dd49e13150e1231e064e3cb3062f",
+      "bytes": 31187,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v16_categories/search.py": {
+      "sha256": "72768dfc6a35407eda7e9af6575d11333d0d574a16a0a6fd71fa48e0c7e8e763",
+      "bytes": 11267,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v16_neighbor/run.py": {
+      "sha256": "a0105f8842e65584e2b87e8fc040d4a0672ae00ce43269d0da475616c3970201",
+      "bytes": 23898,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v16_neighbor/verify.py": {
+      "sha256": "1ae5cd45a46623b8abb1214ff4eeb9ebe2fc252afcb2326ae03168cf68384d9c",
+      "bytes": 8409,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v18_neighbor_vote/run.py": {
+      "sha256": "c94748fb540a9ee422bac1b0ff2f54c688b178dc4d45923798aeed189b1db89c",
+      "bytes": 17007,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v18_neighbor_vote/verify.py": {
+      "sha256": "ec64dc162946d9ffcad773f63ccc172f2d2f6ea7d1b50c12b9307dcc80391803",
+      "bytes": 13040,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/hybrid_search.py": {
+      "sha256": "7228cfd96bd9c7cb07935ada11dc180c2fa4f75dafe7026f9d92a0d2096a854d",
+      "bytes": 4613,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/oof.py": {
+      "sha256": "ab6f442c6a5d4c778ff6e55c736cb5e87b0ea4d41be50cf962b798bd288c4c22",
+      "bytes": 5414,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/prepare_cat.py": {
+      "sha256": "b3007d333588003a67d0cea9bfdbfab1d19bfca58925df431e70f52297da20b0",
+      "bytes": 1095,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/screen_catboost.py": {
+      "sha256": "fcd0f3855ab1ca71bf10bed43ed04200ab4d1737a9fc3a98760a370248cc1901",
+      "bytes": 2404,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/screen_hash.py": {
+      "sha256": "423e380bc5e2a2b43ff213caef3697986aef3936a8aba993666a8d645d79245e",
+      "bytes": 3353,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/screen_leaf.py": {
+      "sha256": "51be453f9925a39bcc558f9ad7eb5ef33820d056cf8d666eea5d64670465003d",
+      "bytes": 3148,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/select_ensemble.py": {
+      "sha256": "39ea88e5ea7889684e2f3d341f07aa3684a0086d1164c88edc310d10cfbab92d",
+      "bytes": 7514,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v5/soft_search.py": {
+      "sha256": "5f0dca12d353212bed76d1ee0a696e3cae72306948beaadc44f86d7ced23f3e8",
+      "bytes": 4777,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/gated_search.py": {
+      "sha256": "8d4102ea2fd5778ef8be21a5c856e17a40d79007b3d68d273db85e5570331165",
+      "bytes": 4110,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/oof_extra.py": {
+      "sha256": "70dc8da64efd18519ebd0b31f45cda7d9ac9382425653d9675399423b1904811",
+      "bytes": 4224,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/oof_url_neighbors.py": {
+      "sha256": "ce18e7ae0c253b4f52dd44db7195c252ed7d64c9934a6aa23ad96c1d90c92bb2",
+      "bytes": 4349,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/screen_extra.py": {
+      "sha256": "99f208e3a9aa1ce203a4fc6bb832ce88f67bc08bd761407cafad657fc9a95eea",
+      "bytes": 5261,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/screen_neighbors.py": {
+      "sha256": "5b12b9b3f953f09a7d2310c4c714422fd4876785c73e955a59cab8a58803ff30",
+      "bytes": 4038,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v6/select_extra.py": {
+      "sha256": "7068b17ee4c20e19235f90df86101197708bb094b1906b4b5a850bb25dbc4376",
+      "bytes": 5106,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/expanded.py": {
+      "sha256": "32d92205ee29a44c7518ea8fa1a124f91d38397eab46cfc0b90b0bd85f061360",
+      "bytes": 6444,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/run.py": {
+      "sha256": "e9394aeff134f0eaa0b72c636d3d21f9bb11e9afd7d97a11d26ee4fb8155336f",
+      "bytes": 13120,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/run_oof.py": {
+      "sha256": "0f8791e6cd3a61a44a4596a7cd87034ebdc024bcc7c6828ea07809c37e170bb3",
+      "bytes": 6614,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/verify.py": {
+      "sha256": "b2333bbf54305ca57968903e60a218ffe18ab4ba221cb722b80397fbd8e218e7",
+      "bytes": 7392,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/verify_expanded.py": {
+      "sha256": "6dfb76799b8bc14665fc07e6900978f493a568cbbd1c3d1b71a22eee2fdc52ec",
+      "bytes": 4265,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/verify_integration.py": {
+      "sha256": "a1a45e69e9897c72978cf11af70e40680d726aad3c83cfda9949a7181200960d",
+      "bytes": 4711,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra/write_report.py": {
+      "sha256": "98a8c36d0151637ab3639a6805e8c09343dd57d9c658a5969f3757146fd14726",
+      "bytes": 18416,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_astra_selection.py": {
+      "sha256": "142f5407fa7c1f9d55396bfcef5c59780975d0d836c6baf3a934a0594522441b",
+      "bytes": 7827,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_hierarchy/check_conservative.py": {
+      "sha256": "5fa2aa75f83367f665b0792d2ed7641f97794ec9b1a03c2800c0d591561fd29c",
+      "bytes": 3221,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_hierarchy/screen.py": {
+      "sha256": "706ec86fa60b19f40873ae8338ae0ac54e380707453963e6129abd2ebb7d6e0c",
+      "bytes": 6291,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_signatures/screen.py": {
+      "sha256": "0b27ad11a0c295057b2767ad71aa38b3774ad7d012ee7fa25bbda6a4adbc1ef3",
+      "bytes": 5434,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v7_stacking/screen.py": {
+      "sha256": "856b5ce406e676e8f54c51918afac2b7858d9fa7419e832d451c394ff8cc8af0",
+      "bytes": 6742,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/exploratory_oof.py": {
+      "sha256": "f9af727b568a024c27f99d2f864e52299165d5d659c138eb7923e4849a9c3cbf",
+      "bytes": 10116,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/resume.py": {
+      "sha256": "1554dea22fb010c2cb7c92eb2eb75b7e306da25f1f0a005c9527d6fe06868136",
+      "bytes": 15666,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/run.py": {
+      "sha256": "201eddf78f20039c291e67859194ef96057f8bd19575f0d71ee30e1aa4f86d42",
+      "bytes": 13670,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/verify.py": {
+      "sha256": "1e134feb8d694b702b83b719884e0803eef481ac93719a4ee41b1f591e0c0c71",
+      "bytes": 10276,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/verify_exploratory_oof.py": {
+      "sha256": "4893acb6170839eaccf7a8dfd7825a8f4cab03dbe2dbe04a3608e22c26827ec2",
+      "bytes": 6770,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/write_exploratory_report.py": {
+      "sha256": "6ca10a9bcbc36f670171333f46fcdc4c10c8f2a44eca0b38f6fbf5535db93fe7",
+      "bytes": 6071,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_astra_regularization/write_report.py": {
+      "sha256": "db202564ccefcab23f02da7f6f364c1d1d231a723220e4ea6b853482ca27eca5",
+      "bytes": 6372,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_ensemble/search.py": {
+      "sha256": "84b0c55cd7b7d886ebac939bce800d6be4e3488a416d1df02f6e9420b2c91ad4",
+      "bytes": 9083,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_resources/oof.py": {
+      "sha256": "b152c28bd2e1c31806560ca7ef21d7c87230832d83f129177db37a10144d7347",
+      "bytes": 5534,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v8_resources/screen.py": {
+      "sha256": "db8a036bd36827a606451900ad8e5086c4c733aa46d49ace5dcd5e2117334bdd",
+      "bytes": 4396,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_margin/recover.py": {
+      "sha256": "9993fc31a37f2e8070bf394dc8b08f196777e77f201270ac9e058425eac93698",
+      "bytes": 5867,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_margin/screen.py": {
+      "sha256": "6e46d67415f923cc03af68458e7caad00f21b729958811fbc719940064ae98ed",
+      "bytes": 6050,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_margin/source_before_adapter.py": {
+      "sha256": "d0d7549f8727eebd69dcbcfc311db26eb33141acd8511bbd617cafa981cec2f5",
+      "bytes": 2765,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_memory/audit.py": {
+      "sha256": "79a727f1af12e1440369dc55f438048bbc44193fbc34cb182300107f4164914c",
+      "bytes": 2838,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_memory/search.py": {
+      "sha256": "dc512a97ea1eaeff475f3a83156b7aeb1ec0752f6f592ae462f185f019947ada",
+      "bytes": 7543,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_origin/origin.py": {
+      "sha256": "5a5ada72aebcd3cafed2dc4693575bf8ce0465d70d2485c2666d86f628b92c1d",
+      "bytes": 11970,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_origin/run.py": {
+      "sha256": "46dbaab4246a456bfb9280acbed7e44ec6d15e5adb2ee3266d9a2b229f692eaa",
+      "bytes": 22270,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_origin/verify.py": {
+      "sha256": "241442f312c21c2db422ddb347ae7bc57ec71918d3c504ed330bd178718dce6e",
+      "bytes": 10155,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_routing/search.py": {
+      "sha256": "af33947d5075c0dfc4389ddc61aebd6610bfd581d5db065a01e1a36f64045bf4",
+      "bytes": 6878,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_templates/run.py": {
+      "sha256": "a91b0408b8406ce341d91b06686c0389dca2dd483d636b3db9084fb3bf1eb08d",
+      "bytes": 21119,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_templates/templates.py": {
+      "sha256": "5247675c3b6b4415fb827bb52b4025b505628ff98fb7acbdc1602e095b2dc7e9",
+      "bytes": 10508,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "experiments/v9_templates/verify.py": {
+      "sha256": "a9d8425585e65a0e4818d2e1dbd5731fb28547459707355d39643ef97c231ab0",
+      "bytes": 6753,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/__init__.py": {
+      "sha256": "82d69a33b775ef8b94f90c0665bf49be5ad5321ef9d157f0aec5072835186ba3",
+      "bytes": 83,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/__main__.py": {
+      "sha256": "5192ec3634f690247d989aaf1bf8b7e9ad8e1daf3deb493d9ad2f994d8f6eeaf",
+      "bytes": 15336,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content.py": {
+      "sha256": "dbfbf9b64fe1a364eb0ae96142f9e14e3796c3a1d17e750efdfeae72ceaa08ee",
+      "bytes": 9022,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_bundle.py": {
+      "sha256": "2517df86080f744713049965765755d2c7edeaf56a91d556323528b23967b5b5",
+      "bytes": 2296,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_catboost.py": {
+      "sha256": "bf558fecaa464b5479514e2dc73095ab33a79db069814cb28327f5d90b6f8680",
+      "bytes": 2814,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_checkpoints.py": {
+      "sha256": "9d45b1ac8d0a9fe08546dd8526670b943145fa9360435a75500733510ef6459c",
+      "bytes": 1232,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_cli.py": {
+      "sha256": "0ad2ede17a9f4b2359c5f670bcaa9dae0fbdc0ae3a752591a0346d26f2ed7392",
+      "bytes": 1325,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_memory.py": {
+      "sha256": "6cee3420fa0aad1498f6cf8509512bbfe46eca71513623a94bb0c89bf646fb0a",
+      "bytes": 2583,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_refinement.py": {
+      "sha256": "911a4c101a1bb46747708c22116c1abd8bd1380bfc1ddb97814793f19e589e55",
+      "bytes": 6096,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/content_validation.py": {
+      "sha256": "781d334b4efe227af572d243bc941da7a722c55458f8cf3539e18cfab267dc95",
+      "bytes": 1773,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/data.py": {
+      "sha256": "9dbbae3d7ecd8ac6706d171ae2834c1a56066424eb91f47441a81eed605ddd04",
+      "bytes": 5218,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/evaluation.py": {
+      "sha256": "afbd42879e69f9619c41b7398c091ae184ec7541176d4b06a10d623ef6076d6b",
+      "bytes": 2284,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/extra_html.py": {
+      "sha256": "ad78ef6bc5e88b238eb66937685124c771fcd87f8b45ae1a14498f58940789af",
+      "bytes": 4494,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/extra_text.py": {
+      "sha256": "e220985750968f5d1db94979fd4ac7c7fe236aafeda9e366df3346f4f325d0c8",
+      "bytes": 763,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/features.py": {
+      "sha256": "90bab9188f57a6e36d98ba5dafb332746cd3cd609d62ed5d4c70e61541a5de7d",
+      "bytes": 5680,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/hashed_text.py": {
+      "sha256": "6c7fbda6ed74f74890727810a9660cc7b3c4cbc10a2b3be15c551876b94b4b5d",
+      "bytes": 1910,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/html_text.py": {
+      "sha256": "65fba83f4225148b26cbc0abb0f41826b0b803e91ec06cc9ef3deba484a29ef1",
+      "bytes": 8905,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/leaf_model.py": {
+      "sha256": "d99837ebc35ec7ec082433553f89cc26ad0dde10cf71e566fc87976331e2fa36",
+      "bytes": 2566,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/models.py": {
+      "sha256": "2fe1b34d67a5b91c4847376ebd5764d1bff557a048995e03f65ecabfe3b88846",
+      "bytes": 2509,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/neighbors.py": {
+      "sha256": "ca8740b21acb9f37415b3cf864fd3be2b54bf1f55ad080f1d4f08fcec69dc9f2",
+      "bytes": 5059,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/refined_bundle.py": {
+      "sha256": "a46dee71501629e9164986fd4f6f02dc4feee579fdf10402127804c03ec2b052",
+      "bytes": 1066,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/refinement_cli.py": {
+      "sha256": "e21461bd8b30c3d84e5e2d17be132064df457cdf0aed8c9f8158fcc47c2a2bb4",
+      "bytes": 1128,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/rich_text.py": {
+      "sha256": "02e90c57baea5b01d01eaee697e2a2a276451b6ca8ace8bb99c400e8650e9dc8",
+      "bytes": 5355,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/soft_context.py": {
+      "sha256": "86693c8d3c631b80a9d64c1833e0ce3a14d1ddafca14b644310734e83e4995c8",
+      "bytes": 2444,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v10_bundle.py": {
+      "sha256": "130e327766611fd95ce542df6a124af02e1025beac4a60c7ea8a4c8af5024a2b",
+      "bytes": 900,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v10_cli.py": {
+      "sha256": "374fd034f1b80b74bf33b13dc1b0fb1aa4fe5cdcf24c11d0bc8ddec046717fcf",
+      "bytes": 1801,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v10_training.py": {
+      "sha256": "36cb76d0e844fba5f507fc8a1f317f755d9803a5109b072b6e514f589dd5fdd8",
+      "bytes": 4563,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v11_bundle.py": {
+      "sha256": "c46b232946682bc7a3c9478c4450230fde5e25399a0dc01287cb714234975ba8",
+      "bytes": 5003,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v11_cli.py": {
+      "sha256": "0f1ba37997571c2bc7438c99cc9ffab3bb07600d74fa80999b77ab4ca0e9ce92",
+      "bytes": 1793,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v11_meta.py": {
+      "sha256": "4ec5a457884fe12d28b61c922f7b0340c2254fe5b1791a8416ac905c59b7ff39",
+      "bytes": 4782,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v12_bundle.py": {
+      "sha256": "bfc80e1272c48c5c3164a47a422f350c6563283689a393d3ae34640125e1dc7f",
+      "bytes": 3325,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v12_cli.py": {
+      "sha256": "28bac1e76fddb3fe43f0014529e82ceda0ee9e42e3ee88d1f55a659c7e7c9bc2",
+      "bytes": 1808,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v12_expert.py": {
+      "sha256": "9de3ada6adba4405d6452a83e08f377bb4493f0c72f50c2a0886a0df584b0b9f",
+      "bytes": 1911,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v13_features.py": {
+      "sha256": "4370369451c1cc6c2817d7de301cee11ed4948884cab0b0c15ee876a996d0c9e",
+      "bytes": 664,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v14_bundle.py": {
+      "sha256": "0a84aaa93f1bb05d7aed99681d8f26876b979760776d909a1ab34b1f85666620",
+      "bytes": 1415,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v14_cli.py": {
+      "sha256": "e9bc12549a6c0ffdad03cb12117601e984721b1a9647c2bf3b52018a37c2e8f1",
+      "bytes": 1801,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v15_bundle.py": {
+      "sha256": "fc012a6a0febcda836c96ff9f0685d45ca932c2e92471106158ac613f19db9e0",
+      "bytes": 1156,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v15_cli.py": {
+      "sha256": "b33dad8bdf8b7f055a85f0e5893257e94aa767d98c40019192e4fa7bab579100",
+      "bytes": 1805,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v15_resources.py": {
+      "sha256": "4620bc017bd62fd4c24f578a9852508c3c3e88f893bbdaf527fcbbafd284508d",
+      "bytes": 2706,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v16_bundle.py": {
+      "sha256": "18337576916cdaa8d9a26a6cb06097a38526e4977b11bd2c89699ec8aac161af",
+      "bytes": 1674,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v16_cli.py": {
+      "sha256": "760cf566c5ccda1f72643ade353d3f76d1253a239b60a4e516e5bcc3f712ea9f",
+      "bytes": 1542,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v16_expert.py": {
+      "sha256": "9efdcaec99101c961d3ba9c8917ccc54dfbeaed60b7b7495ec103ede1130a026",
+      "bytes": 3657,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v17_cli.py": {
+      "sha256": "e4290e41921bd0c32488ee97ee4f2b74f74177e0a487d41167d081df2a99c64f",
+      "bytes": 138,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v5_bundle.py": {
+      "sha256": "466f9af029204a40d0e9c8a00f8c57355d15ffe7c1d695fb0a1f8b205d40786e",
+      "bytes": 3454,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v5_cli.py": {
+      "sha256": "9b1ea17d7c893e8a74703465b1a1c14f84f3679b94d139dbc4ac61ce9867e68a",
+      "bytes": 988,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v6_bundle.py": {
+      "sha256": "24e10edcf79097fbb4e4976ecee1b738e628f5bd417a40fe592279ded525cd10",
+      "bytes": 2986,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v6_cli.py": {
+      "sha256": "07630546185bd4f800d486c6281ddfbe7f3ac8e3b89c4eaa3bcac72a1c6e672e",
+      "bytes": 1069,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_bundle.py": {
+      "sha256": "bb474d217ffcbaed6b4b7a15ee6557d763aa2ac2c429b288dcca41d23b50d1c0",
+      "bytes": 1076,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_cli.py": {
+      "sha256": "952e069d3d354a81deafcce6e6a75a51b1c475fd88696eb4e5aee21b62309a97",
+      "bytes": 1188,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_hierarchy.py": {
+      "sha256": "3b951c6ec6322fde21020c079bda41e76f1549472931d0ebf092c36995fb6c22",
+      "bytes": 3423,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_signatures.py": {
+      "sha256": "4c408d5aa7146db06a466b688bdba63c87aa980d333fd5cab554507d7744984c",
+      "bytes": 4706,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_stacking.py": {
+      "sha256": "3d7b7489d169cadb3d8b55c529befd4c8a9f32a2a5fc2cfb72c876fba4b1f3fd",
+      "bytes": 3170,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v7_text.py": {
+      "sha256": "b00504326bd6dafc824a562a71e6c5b7124f2f76dbcbca892b02cf7158eaee3d",
+      "bytes": 1792,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v8_bundle.py": {
+      "sha256": "2a0304a5cf291fe91d8481175b71e7c575703131a1e6a06e27966b912a1b5027",
+      "bytes": 1993,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v8_cli.py": {
+      "sha256": "810097f65ff31175a96e6b65bac68158f36f2d29c633af8cc109f678fd813845",
+      "bytes": 1051,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v8_resource_text.py": {
+      "sha256": "297dc655cb544c5da4aaceb2ed9954ee6f37796592f8b0b8dead2cf33f9c6c6a",
+      "bytes": 1713,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v9_cli.py": {
+      "sha256": "fb91fb537ae92f7a67cef32396e27f30826150731f92b65440fe9793dccd5581",
+      "bytes": 1109,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v9_margin.py": {
+      "sha256": "84a5d0d0dc65c1f9db8f1e58d5ba0e14990a7ffab18d3a7418179114df41b0e6",
+      "bytes": 3044,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v9_memory.py": {
+      "sha256": "dfb49efab188a817f9d063c612739bd070fe1c63982d36b389fdd09121316cea",
+      "bytes": 4854,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "phishing_url/v9_routing.py": {
+      "sha256": "e5dcf5d814fdd68ba2bb2e3794516b692b45f9f5b3cb1af7fb9b3b9f47e40fc2",
+      "bytes": 3095,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "pytest.ini": {
+      "sha256": "c809c969ec7e11b9ff37784e9c6fcc0b7c5148d168e18b05aed797e03fbd6ead",
+      "bytes": 27,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "requirements.txt": {
+      "sha256": "454777cabac6a7bdd31ad2dffb19ba9dc24a9d392493b25ce8f697ada1dfa462",
+      "bytes": 625,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/extract_content.py": {
+      "sha256": "316d0165181071ee93d85a893dd1d01b90c4d917e458d28b09a431467186409d",
+      "bytes": 5803,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/extract_extra_html.py": {
+      "sha256": "0b01b38c5f7b66a2734092930b183807b2b92d84a9cee2e766ae2649544e70cf",
+      "bytes": 3851,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v10.py": {
+      "sha256": "7b555780674bda74975382b1e22d8fc5abeba2f83e7babc04b4ad55a0bcf3039",
+      "bytes": 3321,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v11.py": {
+      "sha256": "a837b267bc4eef355158b31ba8fe091e916b45ca191fc40a2e79af47ac3cabf1",
+      "bytes": 3284,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v15.py": {
+      "sha256": "efd384aac6bfcd7e767f2f9adfbb0c8bad750c56513a1b785c6534e0139c6648",
+      "bytes": 4075,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v17.py": {
+      "sha256": "736c5a23e5428cdf83edada05b764430e32690c5f811f1e2e54964f3c16f9bc5",
+      "bytes": 3838,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v3.py": {
+      "sha256": "d5a1958b57369d68f22ce880c5c8b45319209a012d1645ea37134eb9dc759de4",
+      "bytes": 3682,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v5.py": {
+      "sha256": "4123dcc1626a64be313b8d16b5decdf13779b474db16dc33a57703fca7ef9d3d",
+      "bytes": 3571,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v6.py": {
+      "sha256": "d35cfba863ee91f7c0e310372c6e6381ac488ae77355b6e1a7d12420755540a6",
+      "bytes": 3334,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v7.py": {
+      "sha256": "8e9eec23eb6863f42cc6c6540e2d86b125b1ee9b9a2ea81189e6f22e329182ff",
+      "bytes": 3805,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v8.py": {
+      "sha256": "2340af152e4871f127286e296592d1566bf076ec29e731f89d488d0f7e305652",
+      "bytes": 3321,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/package_v9.py": {
+      "sha256": "f40010ec481ea991461cc57daeaa60541f53c35c01f8476b9821b4aa29fc3fef",
+      "bytes": 3428,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/prepare_content_components.py": {
+      "sha256": "95e9a90ec772ca6eff8daf5e57eaa555d0ee6c98a3aab2b95a53bbd18a68145f",
+      "bytes": 1896,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/prepare_content_url_features.py": {
+      "sha256": "ca5c47b5b55621d04e26ce558254bb68ef70672c6c60173f8ddc94062f596cbe",
+      "bytes": 938,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/promote_hybrid_selection.py": {
+      "sha256": "635066b132fda1cf6a64dd0b6f8857ea225be97d9ea8266ae6a21d2c013e436f",
+      "bytes": 903,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/promote_soft_selection.py": {
+      "sha256": "d611fd03b8b9b73606aaed6144abff333199564a96110648903ca8c74f7fd86b",
+      "bytes": 1242,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/refit_v8_regularization.py": {
+      "sha256": "ccbb36bf1629396f72d0704f37382166ca98dc4a533329afeb9721b09b82351a",
+      "bytes": 2473,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v10.py": {
+      "sha256": "efe2888a904323192b76cddd2dbaf38209fc028d751316a9fe60bc4d90b80015",
+      "bytes": 10658,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v11.py": {
+      "sha256": "12ce8949d863efd95e4e2ef912fad9d570a2d3690e993ad518d3bdc88e8f5dff",
+      "bytes": 12600,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v15.py": {
+      "sha256": "6ac8b9632eab384b4dea360b98449052c624268147ce5b3a1f9d2167cd8d265e",
+      "bytes": 15404,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v17.py": {
+      "sha256": "7c4310f7bcecb1e14f703d2357bd105680ab5628a4087b94c99c33216cdb18eb",
+      "bytes": 11555,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v3.py": {
+      "sha256": "8c81e9dd74b805f5fb40caaf572896ba2739971e9ae8d7efeae48f658ac1ca9b",
+      "bytes": 8413,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v5.py": {
+      "sha256": "15629ca7bf07b694254a9b0f157969f0bb38d5f81bba52b08cf55b6cbe10b27d",
+      "bytes": 17759,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v6.py": {
+      "sha256": "f7c9be2ea75f168528d42c1c1db3a46a84520dec093bd235f0e55208d3abf12f",
+      "bytes": 15128,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v7.py": {
+      "sha256": "76676b224b3bb6683acdf03b1b95773fc2d54216e8a859a89578b667aa49ef88",
+      "bytes": 14638,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v8.py": {
+      "sha256": "60902ba4ad13f736841c0a6374806013ab102fd84bd259e8ffbebb74d19deb9a",
+      "bytes": 10676,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/report_v9.py": {
+      "sha256": "377d3177ae612c03e8eb4a568f56c42c1360bab39e0c753addc0d57fd94bc1e6",
+      "bytes": 12890,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/retrain_v10_margin.py": {
+      "sha256": "2ea35a136ff543bd463ab34e120076ee4715c3c996bea6fbf73e9c1d1e396ccf",
+      "bytes": 3565,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/retrain_v11_meta.py": {
+      "sha256": "866ee49234755307719696e24de0f9c27329a2d1196ef148166b606821031b77",
+      "bytes": 1794,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/retrain_v15_expert.py": {
+      "sha256": "c7ecb21c6a8366450ef5283d0ec7c500104eace5e7814a8f67a4440819b35850",
+      "bytes": 2040,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/retrain_v17_expert.py": {
+      "sha256": "dd22df58a12aff980ecd42452fc8726243cc43a318b1bc26d3bf68ab828d21ab",
+      "bytes": 1663,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/select_v8.py": {
+      "sha256": "a8eb6888218be2847f9ff92e8f4c1b9bf81fbc72ba23b37dd2c499baaf717ad3",
+      "bytes": 1981,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/select_v9.py": {
+      "sha256": "7ca9e8279b0ed7d3f4ef04e9a2524fd04734462da2efcbf3eda5ae29505b00d7",
+      "bytes": 2287,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/setup_openmp.py": {
+      "sha256": "cf80b6d7333e362714ed2465e50243fd1b9e1bafa80db6d0ad345c60bc31803e",
+      "bytes": 1991,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v10.py": {
+      "sha256": "f1211c19e556bf8dc7cd72183c6983eb37aeed1b282178a3fd8854150231f6f3",
+      "bytes": 8088,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v11.py": {
+      "sha256": "358aaa0c79f55e2fb61ecb84a09963219e76dcaa3ad15988f59851d030035a90",
+      "bytes": 10895,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v12.py": {
+      "sha256": "43a8c7033ad4603cdcaefc5757f3346d3d900142f818499ed796679fa25d8e89",
+      "bytes": 11215,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v14.py": {
+      "sha256": "ff148e9f78c948136d6f0be7e0adb9a1c1dd453017608b9199281477a43c6507",
+      "bytes": 11668,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v15.py": {
+      "sha256": "255260211817a1c8534c06dbb56176c570d41e3d01feaa1e704b2f5092961060",
+      "bytes": 12319,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v17.py": {
+      "sha256": "ec6e6943d391ca3f433149c205af04ab42d8c14ace68477059e9970c29c36c67",
+      "bytes": 14456,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v3.py": {
+      "sha256": "b12809604e8b6d1c7968e4f57c1934ae16725ef4f3c85de03e373a0fac672a1b",
+      "bytes": 10478,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v5.py": {
+      "sha256": "74f5e40cb286abd7388c085b9acd84ff77700232dbcd93f3b1b0a76db0ff4037",
+      "bytes": 11112,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v6.py": {
+      "sha256": "b597d66d89f5d67eefe831c5dc152d724b0e4b262a730d517e28900a199317a7",
+      "bytes": 10734,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v7.py": {
+      "sha256": "58d79c3bb994c6a6dddb51dca04e5e687c1aad2e07f173da9343339ebe6c2b93",
+      "bytes": 9308,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v8.py": {
+      "sha256": "266759dbec90c5e88919be2c14ae3787f606dfb1a37120ae330713574511af6a",
+      "bytes": 7627,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/train_v9.py": {
+      "sha256": "25441d77b1476c6df0e73c554572be965f82305fe5682b1c4264aa8284d99bd1",
+      "bytes": 6407,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_content_selection.py": {
+      "sha256": "af801c494fd650b9296acd8653d715fb24a29febdaac66b552aae9a2de980ffe",
+      "bytes": 2233,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v10.py": {
+      "sha256": "f1f509150eb795a3e0d0e43003a0f43bc4bcb61d391ecb8cde946f7aa7174db1",
+      "bytes": 4348,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v11.py": {
+      "sha256": "deafcf1fece41c61566c147978033dc022059721365f4f9a24aaab51cd317cd3",
+      "bytes": 4348,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v12.py": {
+      "sha256": "598ff3f5d0ed6f1a93bff1a11be0c5618119d67f88005ff13c62ae384dae7983",
+      "bytes": 4348,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v14.py": {
+      "sha256": "ddfdf0b0872625fedbac97f6aafa8590f67b84068febb94e9a49390034a098e0",
+      "bytes": 4348,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v15.py": {
+      "sha256": "97341e1fe8c1d9604fb64a64a47ce1da00f2a1359454a0b9ee81aee2de54961d",
+      "bytes": 4901,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v17.py": {
+      "sha256": "6aa70166d792962c0c57c5d42d5d4a813783c0a2524861df8720365389a9b7c5",
+      "bytes": 4880,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v5.py": {
+      "sha256": "cd84d6995e7c87813524d21b95162b4acdabf57c869f3d46cdcba2df80d59dc9",
+      "bytes": 5661,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v6.py": {
+      "sha256": "f41969097dbb1f1b7f1ffee649344d4c79d734557bcf320638108ca2fb414404",
+      "bytes": 5993,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v7.py": {
+      "sha256": "f89c92fb4cebce68ddb7df14b837ae42665abd3e5387ba178a69738c1831b12c",
+      "bytes": 5993,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v8.py": {
+      "sha256": "e35232badf10c9d89ddf588ecbc5b54eb3b24b03aff06f628ac1c5a5768d2d20",
+      "bytes": 5993,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_package_v9.py": {
+      "sha256": "6bab7b555baa64370d6133f2d1dced5bbaa2fd1e254cc2cae0fec3abf7a4aae4",
+      "bytes": 5993,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v10.py": {
+      "sha256": "8cd964d2f163b74337ddc1c1ec1ea50fab73efe5d9533594e18e7c5b4c205c32",
+      "bytes": 9246,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v10_cli.py": {
+      "sha256": "81dad2412005e461ae32bf0e8ae61ea298a8d5cbedefc8c832cf0fbf5de59319",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v11.py": {
+      "sha256": "94b337a563af08ac15690addb2b609f809b29a700d928b90cd281ed601a98b3c",
+      "bytes": 7859,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v11_cli.py": {
+      "sha256": "0741f94f42fcd96346113d339bdd9be9be06976aec76d28965c5c9f69e240c2a",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v12.py": {
+      "sha256": "f5789f283102f6ab3825f4aebe49bad9771e71ad01365ecf8126262b3e6a9b2d",
+      "bytes": 8770,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v12_cli.py": {
+      "sha256": "b03ee5f98724792fc364d8ba0beb6b0678e16a9552dfcb07ce594a860f69e1fc",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v14.py": {
+      "sha256": "eff682a9abc8277fdbcbe22e6f97343ff4cb176d86c43f7f462dba44a198e336",
+      "bytes": 9850,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v14_cli.py": {
+      "sha256": "decc609ae73322ad00852620aa366805559070c4e22f947949fe85b61f43fda5",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v15.py": {
+      "sha256": "c95638ba2452dd030d054a545c7cdf3b111c057cbdc925e5ceb9741405843120",
+      "bytes": 10936,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v15_cli.py": {
+      "sha256": "f126a8de0da9dc7ead4e829d78d8d7a5746d339d5f6df1e4bc824ba91add31d7",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v15_retraining.py": {
+      "sha256": "2ae72548ece8522dc78894fc175ef7ede40ffa451d39202298d1fc1b5f1326fe",
+      "bytes": 2582,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v17.py": {
+      "sha256": "49bb0513c5d272fd08f1a5f4912ca0e557221bbaeda952887db7ec095d787dfd",
+      "bytes": 9156,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v17_cli.py": {
+      "sha256": "50695da3f83e2cc5ba9b7e484213de465093e4d57c244cc9f477850379707366",
+      "bytes": 2884,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v17_retraining.py": {
+      "sha256": "81d08557bb44357b8dbd4ec08cafaf1920aae4f03fd0b9c79be4da0b0242660f",
+      "bytes": 2571,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v3.py": {
+      "sha256": "bfab34b99d68b43c06725f17806d0188611451b04b84024c5bee2377a6880983",
+      "bytes": 4382,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v5.py": {
+      "sha256": "380b0ca00dafe2e7e11d211f9124f8bdb02fb01d158eb7054e466c9907a18304",
+      "bytes": 7495,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v6.py": {
+      "sha256": "9ca6e889dbd2bd28aef348209c59a087640b3703e3af70fe4ab28627abc779e0",
+      "bytes": 7183,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v7.py": {
+      "sha256": "61dc4b66a0db0a4b939a23a756f9314072889463fed61e4a55acfcf49effb814",
+      "bytes": 6479,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v7_cli.py": {
+      "sha256": "70e9e4ba5f0ad2d150eeb747fb1b425d1ca1f5781723790a65f9257d46ec31c8",
+      "bytes": 2778,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v8.py": {
+      "sha256": "17e88adc3815ee05dc226a55c4ece2b04cb217b12c3fcf2fee111662b83eebd0",
+      "bytes": 5701,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v8_cli.py": {
+      "sha256": "700e435e83f9d2028954cea9dad20d8ddef3e99529d608f89e4d082046727e99",
+      "bytes": 2778,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v9.py": {
+      "sha256": "8fe10f31d99eeb85c1bee9a36b363ca08060e8890c8e23edad18fd315989b5d7",
+      "bytes": 5766,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "scripts/verify_v9_cli.py": {
+      "sha256": "40139eab97f5528e8e38c57d1904fdea5385f2d689781fe7c1a58a46191c2a03",
+      "bytes": 2778,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_component_cache.py": {
+      "sha256": "a5ffb5a4a757b4a52d88fbea716f2455b82afde56271baa19abe828033543d24",
+      "bytes": 650,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_content.py": {
+      "sha256": "9baebae5633e141d6eb744b926e93188b0da46d79da0a233a4fb24444e65242c",
+      "bytes": 1929,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_content_memory.py": {
+      "sha256": "07946aa44d00b1be2d14389c3c9f0a2961efaf574be2e5f3f4ff14fea2492b3e",
+      "bytes": 1759,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_content_refinement.py": {
+      "sha256": "97593b0c0a5101fa5bf2438a117ceb02a3d0e8ba469ebd5175e0ae5b17da1b44",
+      "bytes": 1716,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_extra_html.py": {
+      "sha256": "1c006e246195be70eccbe4c0f073bccd808fae11fb1619763d04d1ccdccc702e",
+      "bytes": 1667,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_extra_text.py": {
+      "sha256": "842460f48a61d5134fa400d36efc7ee24078d8215e70058470c675af117571a2",
+      "bytes": 1167,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_hashed_text.py": {
+      "sha256": "95a055439028bb61b1cbbe23affe748c3f418dcc888ca4f405d8b892224ddfd3",
+      "bytes": 932,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_html_text.py": {
+      "sha256": "b17cc62f096083b39471cdfdbbc3ae7b49ac823bee1e67c48d899c942f2cc9a9",
+      "bytes": 11886,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_leaf_model.py": {
+      "sha256": "8c7ea8b4500eecd8b72ae8e3ce67b555a180d26076b1d36d205b6c057ceeae67",
+      "bytes": 1065,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_neighbors.py": {
+      "sha256": "d920986fbe59d5cef5a7489b85cdd617045325b19fe40147962180fb48da962a",
+      "bytes": 1205,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_pipeline.py": {
+      "sha256": "b068b725f4bd7389897478d582d91474acd5816d7806db3ae8621db7b99f75ee",
+      "bytes": 4020,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_soft_context.py": {
+      "sha256": "394acec0f32c74ae9cabfdbc78920b9ac62cb2b86680278f6206ba99825cd39c",
+      "bytes": 1740,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v10.py": {
+      "sha256": "b650a438f98b11a276131b0d46cca814c6f96b735a5921871d84cfa5d0e253b2",
+      "bytes": 2600,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v11.py": {
+      "sha256": "6a5398795437b7f3f8b6de4a52f6c036dabbdb54e6a0776683f65267928decb4",
+      "bytes": 4098,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v12.py": {
+      "sha256": "7c540a0d8e3348fa0ad31f4061ff2348089a468f5a018fbd57b9d804e1ae64ce",
+      "bytes": 2208,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v13.py": {
+      "sha256": "d8891504a0521ed072c564d38902822f635047c88dbe62f98e98d9ddec825bc6",
+      "bytes": 964,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v15.py": {
+      "sha256": "8d77bab436525b1d658ee7ff6cd69936f536ea82b68be3bfc9513e9e33fd1574",
+      "bytes": 1247,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v16.py": {
+      "sha256": "d4897129089ca89646c7be4ff4dce184c37f00e59ed9c412b163103760c18eac",
+      "bytes": 2713,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v5_bundle.py": {
+      "sha256": "3621b14e23fc4fa0bb18407f591a36324f78042358bf6cf509eb8cb964ce4f92",
+      "bytes": 853,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v6_bundle.py": {
+      "sha256": "1ac2cb7e2b421094b0f5b13535be0059c7f1c57fba3ce29c8ab180957c7ef667",
+      "bytes": 1298,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v7.py": {
+      "sha256": "fb659c7107a7d3e2ce0d869f41ac5c53c03727b3dde009a6a3f932c1fce1558f",
+      "bytes": 3143,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v8.py": {
+      "sha256": "fb8e1539bb747b31c1236ff60329b9c60831954f8af6c861d7fa8085f145ad3f",
+      "bytes": 2338,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    },
+    "tests/test_v9.py": {
+      "sha256": "a11d474e1651019bcd77d434bf27780c41c64fb553e7984cc04a51da6862453e",
+      "bytes": 6233,
+      "origin": "phishing-hackathon-solution-v17.zip"
+    }
+  },
+  "large_runtime_assets_included": false
+}
