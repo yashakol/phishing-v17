@@ -16,5 +16,7 @@
   "full_model_prediction_in_temporary_checkout": false,
   "full_model_prediction_evidence": "predict.json and train.json; logical model and data SHA256 unchanged after repartition, as recorded in payload_repartition.json",
   "tests_passed_after_repartition": 132,
-  "temporary_checkout_removed": true
+  "temporary_checkout_removed": true,
+  "documentation_update_checked": true,
+  "relative_markdown_links_checked": 24
 }
