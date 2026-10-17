@@ -4,11 +4,11 @@
   "purpose": "Complete Git-tracked delivery; excludes .git, local environment, restored runtime and generated outputs.",
   "files_exclude_manifest_itself": true,
   "file_count": 373,
-  "total_file_bytes": 237976189,
+  "total_file_bytes": 237975919,
   "maximum_file_bytes": 16777216,
   "submission_sha256": "806287876e1ca07abf2696189e6de290252e1ff907dfdb78156c271e1a292458",
   "historical_source_snapshot_files": 245,
-  "relative_markdown_links_checked": 23,
+  "relative_markdown_links_checked": 24,
   "files": {
     ".gitattributes": {
       "bytes": 138,
@@ -19,20 +19,20 @@
       "sha256": "31660d3be12e6e8d1be24ebfe653d1fe1130d01f19e9cbe2170fa1c0cec4d556"
     },
     "ORGANIZER_CHECKLIST.md": {
-      "bytes": 3599,
-      "sha256": "f37f8803bbc26adcc203258aab74b52614aebd4c5ec53890539fca721035a43f"
+      "bytes": 3403,
+      "sha256": "f1a9d7c5a18ffffd124baae59e3cda3426ded1c8c18549971f6a62b2e3c3c6be"
     },
     "README.md": {
-      "bytes": 6340,
-      "sha256": "413690f77a3b7d069abd60248e832b0d75d7532bfaef03756d85f56b76b55ec4"
+      "bytes": 6331,
+      "sha256": "ef71f55183bc2ca69959251abcb41391cf28f746532a57456e88d1b3dfe151f8"
     },
     "SOURCE_SNAPSHOT.json": {
       "bytes": 50000,
       "sha256": "c7ed0a9c333280b010df53b07fcdbff9a332b4c81acc4c4575367a34243a1a50"
     },
     "THIRD_PARTY.md": {
-      "bytes": 1048,
-      "sha256": "a037b023450b4313c64eb5a515dcb60376f08553e61ef4e758d28451d9a9733e"
+      "bytes": 902,
+      "sha256": "76b5f099a37ac1e0f89c904dd1ab550953a490e464c77e64a9435ed62366eb13"
     },
     "delivery_assets.py": {
       "bytes": 5668,
@@ -1467,8 +1467,8 @@
       "sha256": "bfe81e25d85850495859ed4256395715aa027c3d469d4c14f411e0223b7e8c93"
     },
     "verification/git_checkout.json": {
-      "bytes": 783,
-      "sha256": "1c3a65f9b9a65e738c1ef930b3c598d9f5279753d2c5e1d8fc97929a70a785b3"
+      "bytes": 864,
+      "sha256": "e705e8b66832e3582bf121f713da40687f378bb4d30f08e00757dfb360922605"
     },
     "verification/payload_repartition.json": {
       "bytes": 5051,
